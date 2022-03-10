@@ -1,10 +1,4 @@
-╔╗ ╔╗    ╔╗ ╔╗     ╔╗
-║║ ║║    ║║ ║║     ║║
-║╚═╝║╔══╗║║ ║║ ╔══╗║║
-║╔═╗║║╔╗║║║ ║║ ║╔╗║╚╝
-║║ ║║║║═╣║╚╗║╚╗║╚╝║╔╗
-╚╝ ╚╝╚══╝╚═╝╚═╝╚══╝╚╝
-                     
+Hey there!
                      
 You may know me by the name of ChillPhrog, Apparry, RuteGlitch or even 1998DodgeCaravanSE in some places!                     
 
